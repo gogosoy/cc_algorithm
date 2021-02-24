@@ -11,9 +11,7 @@
 
 ## 알고리즘 문제 플랫폼
 - [백준](https://www.acmicpc.net/)
-- [LeetCode](https://leetcode.com/)
 - [프로그래머스](https://programmers.co.kr/)
-- [codility](https://www.codility.com/)
 - [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 
 
